@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
- 
 # NestJS E-commerce API
 
 This project is an e-commerce API built with NestJS and Prisma, utilizing a PostgreSQL database. It provides functionalities for managing products, users, and orders.
@@ -215,3 +211,10 @@ For any inquiries or feedback, please contact Ismail Mouyahada at [your-email@ex
 ---
 
 Happy coding! 😊
+
+## Author
+
+**Ismail.M**, Software Engineer & DevOps
+
+- GitHub: [@ghostland-dev](https://github.com/ghostland-dev)
+- Website: [ismail-mouyahada.com](https://www.ismail-mouyahada.com)
